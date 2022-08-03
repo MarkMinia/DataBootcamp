@@ -2,6 +2,7 @@
 
 
 ### Personal projects
+##### [Case Study: Powerlifting]
 ##### [SQL Database Creation: Anime Recommendations](https://markminia.github.io/Project3/)
 ### Course Projects
 ##### [SQL & Database Basics: Final Project](https://markminia.github.io/Project1/)

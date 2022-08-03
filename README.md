@@ -2,10 +2,10 @@
 
 
 ### Personal projects
-##### [Case Study: Powerlifting Raw Power]
-##### [Case Study: Bears, Beets, Battlestar Galactica]
-##### [Case Study: GameStop and Daimond Hands]
-##### [Case Study: NBA...]
+##### [Case Study: Powerlifting Raw Power] Planning
+##### [Case Study: Bears, Beets, Battlestar Galactica] Planning
+##### [Case Study: GameStop and Daimond Hands] Planning
+##### [Case Study: Mamba Mentality] Planning
 ##### [SQL Database Creation: Anime Recommendations](https://markminia.github.io/Project3/)
 ### Course Projects
 ##### [SQL & Database Basics: Final Project](https://markminia.github.io/Project1/)
